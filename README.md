@@ -4,4 +4,4 @@ You need to install the openzepellin contracts by
 
 npm install @openzeppelin/contracts
 
-then truffle test to verify.
+then truffle test
